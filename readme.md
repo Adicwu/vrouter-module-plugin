@@ -2,6 +2,8 @@
 
 This plugin is based on vue and splits its router to achieve on-demand packaged runs
 
+> Used to indirectly deal with the problem of slow webpack hot updates when there are too many routes
+
 ## Getting Started
 
 To begin, you'll need to install `vrouter-moudle-plugin`:
